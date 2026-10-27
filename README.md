@@ -1,3 +1,3 @@
-# Indexity
+# torusOS
 
-An open-source note-taking app with daily routines and runs natively on your computer
+An pseudo-operating system for productivity and text-editing that will include built in apps and a browser.
