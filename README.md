@@ -4,10 +4,10 @@ Try a live demo here: https://terraversal.github.io/torusOS/
 
 > **TorusOS is pseudo-operating system for productivity and markdown-previewing.**
 
-![Image of the TorusOS groundscreen](images/torus-groundscreen.png)
+![Built with | JavaScript](https://img.shields.io/badge/Built_with-JavaScript-orange)
 
 ## Preview
-![Built with | JavaScript](https://img.shields.io/badge/Built_with-JavaScript-orange)
+![Image of the TorusOS groundscreen](images/torus-groundscreen.png)
 
 ## Features
 
@@ -27,3 +27,6 @@ Try a live demo here: https://terraversal.github.io/torusOS/
 - [ ] Locally installable version
 - [ ] File management
 - [ ] More working commands
+## License
+
+This project is licensed under the Apache 2.0 License. See [LICENSE.md] for more details.
