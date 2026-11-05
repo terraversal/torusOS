@@ -1,10 +1,7 @@
 # TorusOS
-
-Try a live demo here: https://terraversal.github.io/torusOS/
-
 > **TorusOS is pseudo-operating system for productivity and markdown-previewing.**
 
-![Built with | JavaScript](https://img.shields.io/badge/Built_with-JavaScript-orange)
+Try a live demo here: https://terraversal.github.io/torusOS/
 
 ## Preview
 ![Image of the TorusOS groundscreen](images/torus-groundscreen.png)
@@ -17,9 +14,9 @@ Try a live demo here: https://terraversal.github.io/torusOS/
 
 ## Tools and Languages
 
-- **Frontend:** JavaScript, HTML, CSS
-- **Upcoming languages:** Golang, Lua
-- **Deployment:** GitHub Pages
+- ![Frontend | JavaScript, HTML, CSS](https://img.shields.io/badge/Frontend-JavaScript,_HTML,_CSS-orange)
+- ![Upcoming languages | Golang, Lua](https://img.shields.io/badge/Upcoming_languages-Golang,_Lua-blue)
+- ![Deployment | Github Pages](https://img.shields.io/badge/Deployment-Github_Pages-green)
 
 ## Roadmap
 
