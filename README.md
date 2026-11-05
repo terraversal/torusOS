@@ -29,4 +29,4 @@ Try a live demo here: https://terraversal.github.io/torusOS/
 - [ ] More working commands
 ## License
 
-This project is licensed under the Apache 2.0 License. See [LICENSE.md] for more details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) for more details.
